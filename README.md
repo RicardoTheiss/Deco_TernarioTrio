@@ -28,10 +28,14 @@ Nós, como equipe "Trio Ternário," reconhecemos algumas limitações inerentes 
 Gostaria de expressar meu sincero agradecimento ao nosso professor Ivan e aos membros da equipe Hackaton Deco, em especial ao Gaudencio e ao Mcandeia. Seu apoio e contribuição foram fundamentais para o sucesso deste projeto. Muito obrigado!
 
 Agradeço a todos os demais envolvidos neste projeto. 
+
 Nossa jornada foi repleta de desafios, mas juntos, alcançamos (alguns de) nossos objetivos. 
+
 A dedicação de cada membro da equipe foi essencial para o sucesso. 
 
 
 
+
 Atenciosamente,
+
 Trio Ternário
