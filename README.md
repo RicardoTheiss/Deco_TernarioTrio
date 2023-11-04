@@ -35,7 +35,7 @@ A dedicação de cada membro da equipe foi essencial para o sucesso.
 
 
 
-
+---------
 Atenciosamente,
 
 Trio Ternário
